@@ -84,7 +84,7 @@ melanoma-tyr-tertile-analysis/
 ├── results/
 │
 ├── scripts/
-│   └── 01_download_data.R
+│   └── TYR_Tertile_Analysis.R
 │
 ├── README.md
 
